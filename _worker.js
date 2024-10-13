@@ -12,6 +12,9 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/refs/heads/main/addressesapi.txt', //paynehusni优选。
+	'https://raw.githubusercontent.com/Idealisten/yxip/refs/heads/main/cmcc.txt', //优选。
+	'https://raw.githubusercontent.com/darkqiank/best_cf_ip/refs/heads/master/addressesapi_1.txt', //darkqiank优选。
+	'https://raw.githubusercontent.com/darkqiank/best_cf_ip/refs/heads/master/addressesapi_7.txt', //优选。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
